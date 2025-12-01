@@ -22,5 +22,5 @@ This list is maintained by Kev</br>
 
 This checklist is for Ad Guard Home format, please add this link to AdGuard > DNS blocklists
 ```
-https://raw.githubusercontent.com/Kevchia/blocklist_scamsite/refs/heads/main/blocklist_scamsite
+https://raw.githubusercontent.com/Kevchia/blocklist_Kev_Custom/refs/heads/main/blocklist_Kev_custom
 ```
